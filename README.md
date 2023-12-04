@@ -27,3 +27,5 @@ Será criada uma cobrança que ficará com o status ativo e uma data de criaçã
 Vídeo com mais detalhes deste projeto:
 
 Para mais informações consulte a documentação oficial da API Pix Gerencianet, disponível em: https://dev.gerencianet.com.br/docs/api-pix#section-criar-cobran-a-
+
+Youtube: https://www.youtube.com/watch?v=g2KbmqXok1E
